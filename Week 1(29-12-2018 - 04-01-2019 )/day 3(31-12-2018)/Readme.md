@@ -9,3 +9,4 @@ tried to implement the grid generator and sampler in python
 * ✍️ will work on the draft of probabilistic inference of ML models.
 * 🙇🏻‍♂️
 will make plans for tomorrow's tasks.
+links for today : <a href='https://github.com/abtExp/ArxivImpl/1511.06309'>arxiv</a>, <a href='https://github.com/abtExp/kaggleKernels'>kaggle</a>, course is part of pytorch scholarship challenge on udacity, blog will be posted by 4th jan on <a href='http://abtexp.wordpress.com'>exp labs</a>
