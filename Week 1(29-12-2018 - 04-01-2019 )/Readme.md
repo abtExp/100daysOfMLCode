@@ -18,8 +18,13 @@ I Started Early And The 100DaysOfMLCode challenge started on 29th Dec 2018
 
 
 ###### Day 3: (31/12/2018) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%203(31-12-2018)'>  :star: </a> 
+* Submitted My Entry To The Quora Kaggle Competetion
+* Worked on a new kernel
+* Watched Course Material
 
 ###### Day 4: (01/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%204(01-01-2019)'>  :star: </a> 
+* Made The Kernel For Humpback whale id competetion
+* Watched the course material
 
 ###### Day 5: (02/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%205(02-01-2019)'>  :star: </a> 
 
