@@ -3,12 +3,12 @@
 New Year Will Be Coming Day After Tommorrow, But I Don't Have To Wait To Start Being Awesome Again.
 I Started Early And The 100DaysOfMLCode challenge started on 29th Dec 2018
 
-###### Day 1: (29/12/2018) :star:
+###### Day 1 (29/12/2018)<a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%201(29-12-2018)'>  :star: </a> 
 
 * Just worked on implementing the model and writing a brief on the paper 1511.06309
 
 
-###### Day 2 (30/12/2018) :star:
+###### Day 2 (30/12/2018))<a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%202(30-12-2018)'>  :star: </a> 
 
 * Worked on 3 sections today : 1. Kaggle
 							   2. Project
@@ -17,12 +17,12 @@ I Started Early And The 100DaysOfMLCode challenge started on 29th Dec 2018
 * Started following 72-hrs-work-week
 
 
-###### Day 3: (31/12/2018) :star:
+###### Day 3: (31/12/2018) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%203(31-12-2018)'>  :star: </a> 
 
-###### Day 4: (01/01/2019) :star:
+###### Day 4: (01/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%204(01-01-2019)'>  :star: </a> 
 
-###### Day 5: (02/01/2019) :star:
+###### Day 5: (02/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%205(02-01-2019)'>  :star: </a> 
 
-###### Day 6: (03/01/2019) :star:
+###### Day 6: (03/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%206(03-01-2019)'>  :star: </a> 
 
-###### Day 7: (04/01/2019) :star:
+###### Day 7: (04/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%207(04-01-2019)'>  :star: </a> 
