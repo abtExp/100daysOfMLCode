@@ -27,7 +27,10 @@ I Started Early And The 100DaysOfMLCode challenge started on 29th Dec 2018
 * Watched the course material
 
 ###### Day 5: (02/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%205(02-01-2019)'>  :star: </a> 
+* Learned about ensemble methods and different types of filters used with conv nets for image processing.
+* fixed the memory issue with the humpback whale competition and submitted first entry with a score of jus 0.27
 
 ###### Day 6: (03/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%206(03-01-2019)'>  :star: </a> 
+* 
 
 ###### Day 7: (04/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%207(04-01-2019)'>  :star: </a> 
