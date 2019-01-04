@@ -31,6 +31,7 @@ I Started Early And The 100DaysOfMLCode challenge started on 29th Dec 2018
 * fixed the memory issue with the humpback whale competition and submitted first entry with a score of jus 0.27
 
 ###### Day 6: (03/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%206(03-01-2019)'>  :star: </a> 
-* 
+* pytorch scholarship challenge project
+* read the lua code by the authors of the <a href='https://github.com/abtExp/ArxivImpl/tree/master/1511.06309'>paper</a> and worked on implementing it using keras and numpy for python
 
 ###### Day 7: (04/01/2019) <a href='https://github.com/abtExp/100daysOfMLCode/tree/master/Week%201(29-12-2018%20-%2004-01-2019%20)/day%207(04-01-2019)'>  :star: </a> 
