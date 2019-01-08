@@ -12,6 +12,7 @@ Day 3: (07/01/2019) ⭐️
 Finished with the CS229 revision, starting tomorrow will work on the statistics and maths for ML.
 
 Day 4: (08/01/2019) ⭐️
+Day 4 was for dimensionality reduction, with PCA.
 
 Day 5: (09/01/2019) ⭐️
 
