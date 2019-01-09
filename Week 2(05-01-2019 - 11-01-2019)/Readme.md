@@ -15,6 +15,7 @@ Day 4: (08/01/2019) ⭐️
 Day 4 was for dimensionality reduction, with PCA.
 
 Day 5: (09/01/2019) ⭐️
+Statistics with R by Duke University at Coursera
 
 Day 6: (10/01/2019) ⭐️
 
