@@ -18,5 +18,7 @@ Day 5: (09/01/2019) ⭐️
 Statistics with R by Duke University at Coursera
 
 Day 6: (10/01/2019) ⭐️
+Test Attempt by deeplearning.ai, i still have a long way to go.
 
 Day 7: (11/01/2019) ⭐️
+Went in for an interview, read about segmentation techniques.
