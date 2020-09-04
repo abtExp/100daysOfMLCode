@@ -1,4 +1,4 @@
-# 100daysOfMLCode
+# 100daysOfMLCode - Incomplete(Try 1, will try again soon.)
 My take on 100 days of machine learning code
 starting on 01/01/2019
 ## Things I'll work on :
